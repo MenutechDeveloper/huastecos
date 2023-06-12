@@ -52,7 +52,7 @@ body {
 .c2 {
   width: 100%;
   height: 800px;
-  background: url("./ac3.jpg");
+  background: url("./slide2.png");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -65,7 +65,7 @@ body {
 .c3 {
   width: 100%;
   height: 800px;
-  background: url("./ac2.jpg");
+  background: url("./slide3.png");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
